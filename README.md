@@ -6,6 +6,7 @@ This repository contains various files useful for manual testing and test automa
 - 1920x1080 resolution
 - 3840x2160 resolution
 - Ultra-wide 2560x1080 resolution
+- 80:1 and 1:80 aspect ratio
 - 255-character filename
 
 ### BMP
