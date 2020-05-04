@@ -11,6 +11,7 @@ This repository contains various files useful for manual testing and test automa
 - Low resolution large size
 - High resolution small size
 - High resolution large size
+- Only numbers filename
 - 255-character filename
 
 ### BMP
