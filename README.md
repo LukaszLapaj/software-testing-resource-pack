@@ -8,6 +8,11 @@ This repository contains various files useful for manual testing and test automa
 - Ultra-wide 2560x1080 resolution
 - 255-character filename
 
+### BMP
+- 1920x1080 resolution
+- 3840x2160 resolution
+- Ultra-wide 2560x1080 resolution
+
 ### PNG
 - 1920x1080 resolution (+ transparency/grayscale combinations)
 - 3840x2160 resolution (+ transparency/grayscale combinations)
