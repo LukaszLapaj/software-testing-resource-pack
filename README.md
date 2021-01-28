@@ -3,8 +3,11 @@ This repository contains various files useful for manual testing and test automa
 
 ## Images
 ### JPG
-- 1920x1080 resolution
-- 3840x2160 resolution
+- 1920x1080 FHD resolution
+- 3840x2160 4K resolution (~8,3MP)
+- 7680x4320 8K resolution (~33,2MP)
+- 15360x8640 16K resolution (~132,7MP)
+- 30720x17280 32K resolution (~530,8MP)
 - Ultra-wide 2560x1080 resolution
 - 80:1 and 1:80 aspect ratio
 - Low resolution small size
