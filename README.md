@@ -32,6 +32,7 @@ This repository contains various files useful for manual testing and test automa
 - Screenshots
      - iPhone X screenshot (Untouched, renamed)
      - iPad 11 Pro screenshot (Untouched, renamed)
+     - Google Pixel 1 screenshot (Untouched, renamed)
 
 ### GIF
 - 1920x1080 resolution (+ transparency variant)
