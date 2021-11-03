@@ -3,6 +3,7 @@ This repository contains various files useful for manual testing and test automa
 
 ## Images
 ### JPG
+- RGB, CMYK, White, Black
 - 1920x1080 FHD resolution
 - 3840x2160 4K resolution (~8,3MP)
 - 7680x4320 8K resolution (~33,2MP)
