@@ -41,6 +41,9 @@ This repository contains various files useful for manual testing and test automa
 - 3840x2160 resolution (+ transparency variant)
 - Ultra-wide 2560x1080 resolution (+ transparency variant)
 
+### TIFF
+- RGB, CMYK, White, Black (LZW compressed)
+
 ## Text files
 ### TXT
 - Empty file
