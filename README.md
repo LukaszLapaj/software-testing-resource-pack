@@ -46,6 +46,7 @@ This repository contains various files useful for manual testing and test automa
 - Small file UTF-8 LF
 - Large file UTF-8 LF
 - 255-character filename
+- Only special characters in name
 
 ## Others
 - No extension empty file
