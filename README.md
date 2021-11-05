@@ -30,9 +30,9 @@ This repository contains various files useful for manual testing and test automa
 - Ultra-wide 2560x1080 resolution (+ transparency/grayscale combinations)
 - Low resolution large size
 - High resolution large size
-- Screenshots
-     - iPhone X screenshot (Untouched, renamed)
-     - iPad 11 Pro screenshot (Untouched, renamed)
+- Screenshots:
+     - iPhone X (Untouched, renamed)
+     - iPad 11 Pro (Untouched, renamed)
      - Google Pixel 1 screenshot (Untouched, renamed)
 
 ### GIF
