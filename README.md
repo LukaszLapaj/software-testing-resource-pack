@@ -17,8 +17,8 @@ This repository contains various files useful for manual testing and test automa
 - High resolution large size
 - Only numbers filename
 - 255-character filename
-
 - Only special characters in name
+
 ### BMP
 - 1920x1080 resolution
 - 3840x2160 resolution
