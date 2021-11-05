@@ -25,6 +25,7 @@ This repository contains various files useful for manual testing and test automa
 - Ultra-wide 2560x1080 resolution
 
 ### PNG
+- RGB, White, Black, Transparent
 - 1920x1080 resolution (+ transparency/grayscale/black text combinations)
 - 3840x2160 resolution (+ transparency/grayscale/black text combinations)
 - Ultra-wide 2560x1080 resolution (+ transparency/grayscale combinations)
