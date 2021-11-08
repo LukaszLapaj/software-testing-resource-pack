@@ -1,5 +1,7 @@
 # Software testing resource pack
-This repository contains various files useful for manual testing and test automation to check REST API or webpage behaviour with various file extensions, sizes, resolution, names etc. 
+This repository contains various files useful for manual testing and test automation to check REST API or webpage behaviour with various file extensions, sizes, resolution, names etc.
+
+### [Download zip](https://github.com/LukaszLapaj/software-testing-resource-pack/archive/refs/heads/master.zip)
 
 ## Images
 ### JPG
