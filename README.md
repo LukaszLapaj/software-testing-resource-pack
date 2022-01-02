@@ -55,4 +55,5 @@ This repository contains various files useful for manual testing and test automa
 - Only special characters in name
 
 ## Others
+- Example QR URL code
 - No extension empty file
