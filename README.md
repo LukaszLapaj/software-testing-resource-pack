@@ -56,4 +56,5 @@ This repository contains various files useful for manual testing and test automa
 
 ## Others
 - Example QR URL code
+- ZIP Bomb (use with caution, password: 42)
 - No extension empty file
