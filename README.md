@@ -56,6 +56,11 @@ This repository contains various files useful for manual testing and test automa
 - Ultra-wide 2560x1080 resolution
 
 ## Text files
+### PDF
+- Empty file
+- Single page `Lorem ipsum` with image
+- 1, 10, 100, 500, 1000 pages `Lorem ipsum`
+
 ### TXT
 - Empty file
 - Small file UTF-8 LF
