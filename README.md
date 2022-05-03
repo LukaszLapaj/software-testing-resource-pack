@@ -46,6 +46,15 @@ This repository contains various files useful for manual testing and test automa
 ### TIFF
 - RGB, CMYK, White, Black (LZW compressed)
 
+### HEIC
+- RGB, CMYK, White, Black
+- 1920x1080 FHD resolution
+- 3840x2160 4K resolution (~8,3MP)
+- 7680x4320 8K resolution (~33,2MP)
+- 15360x8640 16K resolution (~132,7MP)
+- 30720x17280 32K resolution (~530,8MP)
+- Ultra-wide 2560x1080 resolution
+
 ## Text files
 ### TXT
 - Empty file
