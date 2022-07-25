@@ -68,7 +68,9 @@ This repository contains various files useful for manual testing and test automa
 ### TXT
 - Empty file
 - Small file UTF-8 LF
+- Small file Windows-1250 CRLF
 - Large file UTF-8 LF
+- Large file Windows-1250 CRLF
 - 255-character filename
 - Only special characters in name
 
