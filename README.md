@@ -37,6 +37,8 @@ This repository contains various files useful for manual testing and test automa
 - High resolution small size
 - High resolution large size
 - 1:1, 2:1, 1:2 aspect ratio
+- 49& and 51% white image
+- 49& and 51% black image
 - Screenshots:
      - iPhone X (Untouched, renamed)
      - iPad 11 Pro (Untouched, renamed)
