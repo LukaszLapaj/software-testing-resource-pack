@@ -31,7 +31,9 @@ This repository contains various files useful for manual testing and test automa
 - 1920x1080 resolution (+ transparency/grayscale/black text combinations)
 - 3840x2160 resolution (+ transparency/grayscale/black text combinations)
 - Ultra-wide 2560x1080 resolution (+ transparency/grayscale combinations)
+- Low resolution small size
 - Low resolution large size
+- High resolution small size
 - High resolution large size
 - Screenshots:
      - iPhone X (Untouched, renamed)
