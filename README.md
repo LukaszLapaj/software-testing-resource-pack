@@ -20,6 +20,7 @@ This repository contains various files useful for manual testing and test automa
 - Only numbers filename
 - 255-character filename
 - Only special characters in name
+- 1:1, 2:1, 1:2 aspect ratio
 
 ### BMP
 - 1920x1080 resolution
@@ -35,6 +36,7 @@ This repository contains various files useful for manual testing and test automa
 - Low resolution large size
 - High resolution small size
 - High resolution large size
+- 1:1, 2:1, 1:2 aspect ratio
 - Screenshots:
      - iPhone X (Untouched, renamed)
      - iPad 11 Pro (Untouched, renamed)
